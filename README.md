@@ -17,7 +17,7 @@
 - `chatgpt_register.py`：根目录下的 DuckMail 注册脚本
 - `codex/protocol_keygen.py`：纯 HTTP 的 Codex OAuth 注册与 token 生成脚本
 - `duckmaildoc.md`：DuckMail API 参考文档(https://raw.githubusercontent.com/MoonWeSif/DuckMail/main/public/llm-api-docs.txt)
-- [management.html](https://github.com/router-for-me/Cli-Proxy-API-Management-Center/releases)
+- [management.html](https://github.com/router-for-me/Cli-Proxy-API-Management-Center/releases)(自动更新)
 
 ## 环境依赖
 
